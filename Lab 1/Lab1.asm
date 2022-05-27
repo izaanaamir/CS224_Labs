@@ -1,10 +1,3 @@
-CS224
-Lab No. 1
-Section No. 006
-Izaan Aamir
-22001488	
-20/02/2022
-
 #PART 1: TWISTING AN ARRAY
 .data
 	array: .space 80
