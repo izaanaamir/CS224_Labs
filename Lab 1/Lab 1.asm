@@ -1,10 +1,3 @@
-CS224
-Lab No.01
-Section No. 006
-Izaan Aamir
-22001488
-25/02/2022
-
 #ARITHMETIC EQUATION
 .data
 	firstInput: .asciiz "Enter the value of a:"
